@@ -1,6 +1,6 @@
 ## Hi there 👋
 I'm David👀
-🔭 Full-stack new-born👶
+🔭 Full-stack and blockchain...
 Jamajama🤞
 
 👯 I’m looking to collaborate on SaaS projects and blockchain projects.
