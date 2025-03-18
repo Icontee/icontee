@@ -1,10 +1,9 @@
 ## Hi there 👋
-I'm David👀
-🔭 Full-stack and blockchain...
-Jamajama🤞
+I'm David
+🔭 Full-stack and blockchain dev.
 
-👯 I’m looking to collaborate on SaaS projects and blockchain projects.
-Let's connect😎
+
+
 
 
 <!--
