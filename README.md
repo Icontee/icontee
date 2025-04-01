@@ -1,10 +1,10 @@
 ## Hi there 👋
 I'm David
 
-##Full-Stack & Blockchain Dev
+**##**Full-Stack & Blockchain Dev
 I specialize in:
 
-##🌐 NextJS and ReactJS with TypeScript
+**##**🌐 NextJS and ReactJS with TypeScript
   🐱‍👤Laravel and Vue Js 
   🐱‍🏍Solidity & Rust for Blockchain Development
   🐍 Python for Django & FastAPI
