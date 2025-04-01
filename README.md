@@ -1,26 +1,26 @@
 ## Hi there 👋
 I'm David
 
-**##**Full-Stack & Blockchain Dev
+## Full-Stack & Blockchain Dev
 I specialize in:
 
-**##**🌐 NextJS and ReactJS with TypeScript
+## 🌐 NextJS and ReactJS with TypeScript
   🐱‍👤Laravel and Vue Js 
   🐱‍🏍Solidity & Rust for Blockchain Development
   🐍 Python for Django & FastAPI
   📱 React Native with Expo
 I'm Open to exciting opportunities in these areas! 📢
 
-##About Me
+## About Me
 🎓 B.sc Electrical and Electronics @ University of Ibadan,Nigeria.
 👨‍💻 Full-stack web developer (React/Vue + Laravel Framework)
 📱 Mobile app developer (React Native + Expo)
 🚀 Passionate about creating efficient, scalable solutions
 Tech Stack
-##Frontend
+## Frontend
 React Next.js TypeScript TailwindCSS SCSS Framer Motion
 
-##Backend
+## Backend
 Laravel FASTAPI Django NodeJS NestJS PostgreSQL
 
 Mobile
