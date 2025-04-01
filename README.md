@@ -7,7 +7,7 @@ I specialize in:
 ## 🌐 NextJS and ReactJS with TypeScript
   🐱‍👤Laravel and Vue Js 
   
-  🐱‍🏍Solidity & Rust for Blockchain Development
+  🐱‍🏍Solidity, Go & Rust for Blockchain Development
 
   🐍 Python for Django & FastAPI
   
